@@ -7,3 +7,5 @@ Para que un bot: Los bots brindan una experiencia que se siente menos como usar 
 Mitlantecuhtli fue desarrollado Utilizando QNAMarker y Bot services fue conectado a través de la Api de facebook para poder interactuar con el, en el idioma ingles y español. utilizando una base de conocimientos, primero fue encontrar y utilizar los primeros  estados de la república mexicana: Querétaro, Guanajuato, Ciudad de Mexico y Michoacán, estos 3 estados y 1 ciudad se buscaron los sitios donde en el día de muertos se realizan actividades para poder disfrutar en compañía, solo se necesita saber en que estado te encuentras para que mitlantecuhtli pueda sugerirte un lugar único, y si no es suficiente puedes solicitar mas opciones que te pueden llevar a descubrir como se festeja en cada sitio.
 
 Actualmente esta en la fase de verificación por parte de facebook para ser aprobado y ser lanzado al publico y poder interactuar con el, la pagina para poder encontrarlo esta en: https://www.facebook.com/Mictlantecuhtli-guia-esp%C3%ADritual-109048164345791/?ref=your_pages
+
+Demostración: https://vm.tiktok.com/ZS45pqBW/
